@@ -52,8 +52,9 @@ form .searchIcon {
 }
 .limitedOffer {
   font-size: 20px;
-  border-bottom: 2px solid green;
+  border-bottom: 2px solid white;
   cursor: pointer;
+  color: #29B129;
 }
 .navBottom {
   display: flex;
